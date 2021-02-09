@@ -18,7 +18,6 @@ export default {
   @import './assets/vendor/animate-css/vivify.min.css';
   @import './assets/vendor/bootstrap-multiselect/bootstrap-multiselect.css';
   @import './assets/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.min.css';
-  @import './assets/vendor/bootstrap-colorpicker/css/bootstrap-colorpicker.css';
   @import './assets/vendor/multi-select/css/multi-select.css';
   @import './assets/vendor/bootstrap-tagsinput/bootstrap-tagsinput.css';
   @import './assets/vendor/nouislider/nouislider.min.css';
